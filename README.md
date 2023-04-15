@@ -1,5 +1,5 @@
 # ORNet Software Protocol Description
-ORNet software is a suite of products that can be integrated with Laboratory Information Systems (LIS) to provide advanced functionalities. The software supports a URI protocol launch mechanism to start the ORNet products from within the LIS.
+[ORNet software](https://ornet.eu/) is a suite of products that can be integrated with Laboratory Information Systems (LIS) to provide advanced functionalities. The software supports a URI protocol launch mechanism to start the ORNet products from within the LIS.
 
 The URI protocol format for launching ORNet products is as follows:
 | Product     | Protocol    |
@@ -37,4 +37,4 @@ By following this protocol description, developers of Laboratory Information Sys
 We understand the importance of collaboration in the software development community, which is why we are excited to work with other companies and developers to enhance the ORNet software suite. We believe that by combining our expertise and resources, we can create innovative solutions that benefit the entire industry.
 \
 \
-If you have any ideas or suggestions for new features or functionalities that could be added to the ORNet protocol, we would love to hear from you. We are always looking for ways to improve our products and services, and we believe that your input can help us achieve this goal.
+If you have any ideas or suggestions for new features or functionalities that could be added to the ORNet protocol, [we would love to hear from you](https://github.com/BaitPartnerOU/ORNetProtocol/discussions/2). We are always looking for ways to improve our products and services, and we believe that your input can help us achieve this goal.
